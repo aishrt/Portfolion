@@ -1,0 +1,38 @@
+.cal
+{
+   position: relative;
+   width: 50%;
+   height: 50%;
+   padding-left: 30%;
+   padding-top: 15%;
+
+}
+
+         .title{ 
+         margin-bottom: 5px;
+         font-size: 30px; 
+         text-align:center; 
+         font-family: Ravie;
+         background-color:orange;
+         width: 410px; 
+         color:black; 
+         border: solid black 2px; 
+         } 
+  
+         input[type="button"] 
+         { 
+         background-color:orange; 
+         font-size: 30px;
+         color: black; 
+         border: solid black 2px; 
+         width:100% 
+         } 
+  
+         input[type="text"] 
+         { 
+         font-size: 30px;
+         background-color:white; 
+         border: solid black 2px; 
+         width:100% 
+         } 
+       
